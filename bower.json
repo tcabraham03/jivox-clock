@@ -1,0 +1,17 @@
+{
+  "name": "clockforjivox",
+  "authors": [
+    "Rahul Krishna <rkbalu524@gmail.com>"
+  ],
+  "description": "A Clock for Jivox",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Lato;
+    font-size:14px;
+}
+
+.analog-clock{
+    width:160px;
+
+    margin: auto;
+}
+
+#clock-face{
+    stroke:#ff9800;
+    stroke-width:20px;
+    fill:#ff9800;
+
+}
+
+#h-hand, #m-hand, #s-hand, #s-tail{
+    stroke:#2196F3;
+    stroke-linecap:round;
+}
+
+#h-hand{
+    stroke-width:3px;
+}
+
+#m-hand{
+    stroke-width:2px;
+}
+
+#s-hand{
+    stroke-width:1px;
+}
+
+.time-text{
+    text-align:center;
+}
+
+#tzlist{
+    margin-top: 50px;
+    padding: 5px;
+}
+
